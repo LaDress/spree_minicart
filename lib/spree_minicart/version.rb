@@ -1,3 +1,3 @@
 module SpreeMinicart
-  VERSION = "1.1.3"
+  VERSION = "2.1.0"
 end

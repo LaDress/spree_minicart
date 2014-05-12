@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.version     =  SpreeMinicart::VERSION
   s.summary     = 'Spree Minicart displays a minicart in your spree store'
   s.description = "Spree Minicart allows customer to add/remove an item from their cart without ever leaving the page they're on.Let your customers preview their cart before they start the checkout process."
-  s.required_ruby_version = '>= 1.8.7'
+  s.required_ruby_version = '>= 2.0.0'
 
   s.author            = 'Stéphane Bounmy'
   s.email             = 'stephanebounmy@gmail.com'
