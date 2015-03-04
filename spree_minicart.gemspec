@@ -24,11 +24,11 @@ Gem::Specification.new do |s|
   s.add_dependency 'spree_sample', '~> 2.0'
   s.add_dependency 'spree_api', '~> 2.0'
   s.add_development_dependency 'capybara'
+  s.add_development_dependency 'selenium-webdriver'
   s.add_development_dependency 'factory_girl'
   s.add_development_dependency 'ffaker'
   s.add_development_dependency 'rspec-rails'
   s.add_development_dependency 'sqlite3'
   s.add_development_dependency 'sass-rails'
   s.add_development_dependency 'coffee-rails'
-  s.add_development_dependency 'debugger'
 end
